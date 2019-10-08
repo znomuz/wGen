@@ -5,6 +5,8 @@
 <p>Mostly people make their passwords on the name of things that revolve in their environment and when website says "Your password is weak" then they simply add 1234567890 or something like that. So these types can be guessed by <b>wGen</b></p>
 <h2> Requirements</h2>
 <p>Local servers(e.g xammp,WampServer,Mamp,BitNami,AppServ etc) OR Web Hosting that supports php(e.g 000webhost,freeweb.pk,infinityfree etc).</p>
+<h2> Video Tutorial</h2>
+<a href="https://youtu.be/PZ4qqaF1XWw"><img src="https://i.ytimg.com/vi/4wswgVoXgyA/maxresdefault.jpg"></a>
 <h2> Usage</h2>
 <p><pre><code>git clone https://github.com/graysuit/wGen.git</code></pre>
 <ol>
