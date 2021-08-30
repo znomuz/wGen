@@ -1,5 +1,5 @@
 <h1> wGen - Common User Passwords Profiler</h1>
-<a href=https://discord.gg/Hu5XPGMTuk><img src=https://img.shields.io/discord/787203724975931413?label=discord /></a>
+<a href=https://graysuit.github.io><img src=https://img.shields.io/discord/873544368982720593?label=discord /></a>
 <p>wGen is an simple wordlist generator made in php. It ask you to give information about your victim and when filled, It has intelligent algorithim that simply reads data and make wordlist according to information that you provided. This is something similar to <a href="https://github.com/Mebus/cupp">MEBUS/CUPP</a>.</p>
 <center><img src="https://i.ibb.co/Z86MdCg/sadas.png"></center>
 <h2> How people make their passwords?</h2>
@@ -21,6 +21,6 @@
 <ul><li>Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5">gray.programmerz.5</a></li>
 <li>Email: <a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></li>
 <li>Website: <a href="https://tiplava.blogspot.com">tiplava</a></li>
-<li>Discord: <a href="https://discord.gg/Hu5XPGMTuk"><b>Fishes</b></a></li>
+<li>Discord: <a href="https://graysuit.github.io"><b>Fishes</b></a></li>
 </ul>
 <h1>I Love ALLAH + Holy Prophet + Islam and Pakistan.</h1>
